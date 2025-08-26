@@ -1,0 +1,6 @@
+Instalar las dependencias por medio: npm install
+
+Para correrlo: npx expo start
+
+El login esta creado para que cualquier tipo de dato permita ingresar a la siguiente pagina
+ 
